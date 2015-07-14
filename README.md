@@ -1,7 +1,7 @@
 # ArchPi 
 
 ArchPi is an ArchLinux server on a Raspberry Pi 2 
-with the followind components installed:
+with the following components installed:
 
 - Python 3.4
 - PyGreen server
